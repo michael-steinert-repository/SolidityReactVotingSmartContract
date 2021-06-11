@@ -5,6 +5,11 @@
 * It uses a Blockchain to synchronize and store its Changes
 * It uses a Cryptocurrency called Ether to meter and constrain Execution Resource Costs
 
+## Smart Contract
+* A Smart Contract can be compiled and depolyed on the Blockchain with its own Address
+* The Smart Contract can be executed on the Blockchain by Sending a Transaction to its Address
+* The Signer of this Transaction have to pay a Fee and interact with the Smart Contract 
+
 ## Contract ABI Specification
 * The Contract Application Binary Interface (ABI) is the standard Way to interact with Contracts in the Ethereum ecosystem
 * ABIs are used for the Interaction from Outside the Blockchain and for Contract-to-Contract Interaction
