@@ -8,7 +8,8 @@
 ## Smart Contract
 * A Smart Contract can be compiled and depolyed on the Blockchain with its own Address
 * The Smart Contract can be executed on the Blockchain by Sending a Transaction to its Address
-* The Signer of this Transaction have to pay a Fee and interact with the Smart Contract 
+* The Signer of this Transaction have to pay a Fee and can interact with the Smart Contract as its Owner
+* A Smart Contract can be exectued by many People
 
 ## Contract ABI Specification
 * The Contract Application Binary Interface (ABI) is the standard Way to interact with Contracts in the Ethereum ecosystem
